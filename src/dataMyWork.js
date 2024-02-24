@@ -1,18 +1,13 @@
-import Brinks from '../src/components/images/brinksargentina_logo.jpeg';
 import Valkimia from '../src/components/images/valkimia.png';
 import Ecommerce from '../src/components/images/ecommerce.jpg';
 import logo from '../src/components/images/logo.jpg';
+import API from '../src/components/images/API NodeJS.png';
 
 const dataMyWork = [
     {
-        title: 'Brinks Argentina',
-        image: Brinks,
-        link: 'link 1',
-    },
-    {
         title: 'Valkimia',
         image: Valkimia,
-        link: 'link 2',
+        link: 'https://www.valkimia.com/',
     },
     {
         title: 'Ecommerce - NET',
@@ -23,6 +18,11 @@ const dataMyWork = [
         title: 'RealState - REACT',
         image: logo,
         link: 'https://github.com/ferrarisantiago/realstate',
+    },
+    {
+        title: 'API - Node js',
+        image: API,
+        link: 'https://github.com/ferrarisantiago/APINodeReact',
     }
 ];
 

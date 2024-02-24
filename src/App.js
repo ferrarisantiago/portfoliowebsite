@@ -20,7 +20,7 @@ function App() {
       <About title="About me" id="about" dark={true}></About>
       <Skills title="My coding Journey" id="skills" dark={false}></Skills>
       <MyWork title="My work" id="MyWork" dark={true}></MyWork>
-      <Contact title="Get in touch" id="Contact" dark={false}></Contact>
+      {/* <Contact title="Get in touch" id="Contact" dark={false}></Contact> */}
     </div>
   );
 }

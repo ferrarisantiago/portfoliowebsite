@@ -1,7 +1,7 @@
 import { makeStyles } from "@material-ui/core/styles";
 import {Card, CardActions, CardContent, CardMedia, Typography } from '@mui/material';
 import aboutme from '../components/images/SoftDev.jpg';
-import pdf from '../components/images/FERRARI SANTIAGO IT.pdf';
+import pdf from '../components/images/Resume_Ferrari_Santiago.pdf';
 import Typewriter from 'typewriter-effect';
 import React, { useState} from 'react';
 

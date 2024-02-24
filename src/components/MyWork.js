@@ -49,7 +49,7 @@ const useStyles = makeStyles((theme) =>({
   card:{
     maxWidth: 330,
     minHeight: 250,
-    margin: 3,
+    margin: 10,
   },
   carName:{
     height: 0,

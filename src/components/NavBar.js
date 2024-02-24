@@ -26,11 +26,11 @@ const Links = [{
     Text: "My work",
     icon: <HomeRepairServiceIcon fontSize='large'/>
   },
-  {
+  /* {
     id: "Contact",
     Text: "Get in touch",
     icon: <PeopleIcon fontSize='large'/>
-  },
+  }, */
 ]
 
 function NavBar() {
